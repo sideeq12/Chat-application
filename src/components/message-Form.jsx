@@ -1,6 +1,9 @@
 const MessageForm = () => {
+    const style = {
+        marginTop : "auto"
+    }
     return ( 
-        <div>
+        <div style={style}>
             Message Form
         </div>
      );
